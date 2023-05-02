@@ -1,0 +1,15 @@
+C:\Users\Artur\Desktop\WEEK4_Existing\WEEK4Existing\WEEK4Existing\bin\Debug\net6.0\WEEK4Existing.exe
+C:\Users\Artur\Desktop\WEEK4_Existing\WEEK4Existing\WEEK4Existing\bin\Debug\net6.0\WEEK4Existing.deps.json
+C:\Users\Artur\Desktop\WEEK4_Existing\WEEK4Existing\WEEK4Existing\bin\Debug\net6.0\WEEK4Existing.runtimeconfig.json
+C:\Users\Artur\Desktop\WEEK4_Existing\WEEK4Existing\WEEK4Existing\bin\Debug\net6.0\WEEK4Existing.dll
+C:\Users\Artur\Desktop\WEEK4_Existing\WEEK4Existing\WEEK4Existing\bin\Debug\net6.0\WEEK4Existing.pdb
+C:\Users\Artur\Desktop\WEEK4_Existing\WEEK4Existing\WEEK4Existing\obj\Debug\net6.0\WEEK4Existing.csproj.AssemblyReference.cache
+C:\Users\Artur\Desktop\WEEK4_Existing\WEEK4Existing\WEEK4Existing\obj\Debug\net6.0\WEEK4Existing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\Desktop\WEEK4_Existing\WEEK4Existing\WEEK4Existing\obj\Debug\net6.0\WEEK4Existing.AssemblyInfoInputs.cache
+C:\Users\Artur\Desktop\WEEK4_Existing\WEEK4Existing\WEEK4Existing\obj\Debug\net6.0\WEEK4Existing.AssemblyInfo.cs
+C:\Users\Artur\Desktop\WEEK4_Existing\WEEK4Existing\WEEK4Existing\obj\Debug\net6.0\WEEK4Existing.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\WEEK4_Existing\WEEK4Existing\WEEK4Existing\obj\Debug\net6.0\WEEK4Existing.dll
+C:\Users\Artur\Desktop\WEEK4_Existing\WEEK4Existing\WEEK4Existing\obj\Debug\net6.0\refint\WEEK4Existing.dll
+C:\Users\Artur\Desktop\WEEK4_Existing\WEEK4Existing\WEEK4Existing\obj\Debug\net6.0\WEEK4Existing.pdb
+C:\Users\Artur\Desktop\WEEK4_Existing\WEEK4Existing\WEEK4Existing\obj\Debug\net6.0\WEEK4Existing.genruntimeconfig.cache
+C:\Users\Artur\Desktop\WEEK4_Existing\WEEK4Existing\WEEK4Existing\obj\Debug\net6.0\ref\WEEK4Existing.dll
